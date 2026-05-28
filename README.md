@@ -157,7 +157,7 @@ Both supervised and unsupervised analyses converge on the same drivers: **Contra
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/AssylbekO/telco-churn.git
+git clone https://github.com/AssylbekO/Customer_Churn_Telco.git
 cd telco-churn
 
 # 2. Install dependencies
