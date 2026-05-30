@@ -4,8 +4,9 @@
 > **Authors:** Anna Kopecny · Adil Zhumagaliyev · Alisha Utegenova · Assylbek Omarov  
 > **Supervisor:** prof. Ing. Tomáš Kliegr, Ph.D.
 
-View the rendered Supervised Notebook here: https://nbviewer.org/github/AssylbekO/Customer_Churn_Telco/blob/main/notebooks/Main_Supervised.ipynb
-**0.8414 ROC-AUC · 3 customer segments · 63% cost reduction vs baseline**
+>View the rendered Supervised Notebook here: https://nbviewer.org/github/AssylbekO/Customer_Churn_Telco/blob/main/notebooks/Main_Supervised.ipynb
+>View the rendered Unsupervised Notebook herehttps://nbviewer.org/github/AssylbekO/Customer_Churn_Telco/blob/main/notebooks/Unsupervised.ipynb
+>Results: **0.8414 ROC-AUC · 3 customer segments · 63% cost reduction vs baseline**
 
 ---
 
