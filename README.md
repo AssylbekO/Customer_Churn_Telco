@@ -31,7 +31,7 @@ telco-churn/
 │   ├── raw/                        # Original dataset (not tracked by git)
 │   └── processed/                  # Train/test splits
 ├── notebooks/
-│   ├── Supervised.ipynb            # Classification pipeline
+│   ├── Main_Supervised.ipynb       # Classification pipeline
 │   └── Unsupervised.ipynb          # Clustering analysis
 ├── outputs/
 │   ├── Supervised.html             # Rendered notebook
@@ -171,6 +171,6 @@ pip install -r requirements.txt
 # Download WA_Fn-UseC_-Telco-Customer-Churn.csv from Kaggle → data/raw/
 
 # 4. Run notebooks
-jupyter notebook notebooks/Supervised.ipynb
+jupyter notebook notebooks/Main_Supervised.ipynb
 jupyter notebook notebooks/Unsupervised.ipynb
 ```
